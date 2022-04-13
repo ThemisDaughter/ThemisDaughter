@@ -1,9 +1,9 @@
 ### Hi everyone!
-___
+_
 I'm a full stack developer based in London. I love css and I am discovering the wonders of gsap and framer-motion animations.
 
 #### My skills
-___
+_
 *languages*
 - Javascript
 - TypeScript
