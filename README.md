@@ -1,10 +1,10 @@
-### Hi everyone!
-_
+## Hi everyone!
+
 I'm a full stack developer based in London. I love css and I am discovering the wonders of gsap and framer-motion animations.
 
-#### My skills
-_
-*languages*
+### My skills
+
+__languages__
 - Javascript
 - TypeScript
 *Front-End*
@@ -12,9 +12,11 @@ _
 - HTML5
 - CSS3
 - framer-motion
-*Fullstack*
+
+__Fullstack__
 - Next.js
-*Back-End*
+
+__Back-End__
 - Express.js
 - Koa.js
 - Sequelize
